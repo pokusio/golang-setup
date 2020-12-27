@@ -9,7 +9,7 @@ When i need Golang on amachine
 
 ```bash
 export GOVERSION=1.15.6
-export GOOS=linux-amd64
+export GOOS=linux
 export GO_CPU_ARCH=amd64
 
 export DWLD_URI=https://golang.org/dl/go${GOVERSION}.${GOOS}-${GO_CPU_ARCH}.tar.gz
